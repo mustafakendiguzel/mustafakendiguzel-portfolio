@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "name": "Proje 1",
+      "description": "Proje 1 açıklaması",
+      "logo": "https://vuejs.org/images/logo.png",
+      "github": "https://github.com/user/project1",
+      "demo": "https://project1-demo.com"
+    },
+    {
+      "id": 2,
+      "name": "Proje 2",
+      "description": "Proje 2 açıklaması",
+      "logo": "https://vuejs.org/images/logo.png",
+      "github": "https://github.com/user/project2"
+    },
+    {
+      "id": 3,
+      "name": "Proje 3",
+      "description": "Proje 3 açıklaması",
+      "logo": "https://vuejs.org/images/logo.png",
+      "github": "https://github.com/user/project3",
+      "demo": "https://project3-demo.com"
+    }
+  ]
