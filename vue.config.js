@@ -1,6 +1,6 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-  publicPath:'/portfolio/',
+  publicPath:'/mustafakendiguzel-portfolio',
   transpileDependencies: true,
   chainWebpack: config => {
     config.module
