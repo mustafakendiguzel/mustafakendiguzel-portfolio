@@ -7,7 +7,8 @@ import ProfessionalProjects from './components/ProfessionalProjects.vue'
 const routes = [
   {
     path: '/',
-    redirect: '/home'
+    redirect: '/home',
+    component: HomePage
   },
   { path: '/home', component: HomePage },
   { path: '/open-source-projects', component: OpenSourceProjects },
